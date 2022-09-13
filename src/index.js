@@ -133,4 +133,4 @@ async function run(wantToBuyProductNameRegex = /Surface Go/, sizeRegex = /128GB/
   }
 }
 
-run(/Surface Laptop 3/, /512GB/);
+run(/Surface Laptop Go/, /128GB/);
